@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunrise-battle-sim-client/static/css/main.fe4cbec9.chunk.css",
+    "main.js": "/sunrise-battle-sim-client/static/js/main.8659e9ba.chunk.js",
+    "main.js.map": "/sunrise-battle-sim-client/static/js/main.8659e9ba.chunk.js.map",
+    "runtime-main.js": "/sunrise-battle-sim-client/static/js/runtime-main.afab3532.js",
+    "runtime-main.js.map": "/sunrise-battle-sim-client/static/js/runtime-main.afab3532.js.map",
+    "static/js/2.907ddc13.chunk.js": "/sunrise-battle-sim-client/static/js/2.907ddc13.chunk.js",
+    "static/js/2.907ddc13.chunk.js.map": "/sunrise-battle-sim-client/static/js/2.907ddc13.chunk.js.map",
+    "index.html": "/sunrise-battle-sim-client/index.html",
+    "precache-manifest.0d750dcfb39d55fe1297bdbfa6f6648f.js": "/sunrise-battle-sim-client/precache-manifest.0d750dcfb39d55fe1297bdbfa6f6648f.js",
+    "service-worker.js": "/sunrise-battle-sim-client/service-worker.js",
+    "static/css/main.fe4cbec9.chunk.css.map": "/sunrise-battle-sim-client/static/css/main.fe4cbec9.chunk.css.map",
+    "static/js/2.907ddc13.chunk.js.LICENSE.txt": "/sunrise-battle-sim-client/static/js/2.907ddc13.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sunrise-battle-sim-client/static/media/pkmnRGB.65780863.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afab3532.js",
+    "static/js/2.907ddc13.chunk.js",
+    "static/css/main.fe4cbec9.chunk.css",
+    "static/js/main.8659e9ba.chunk.js"
+  ]
+}
